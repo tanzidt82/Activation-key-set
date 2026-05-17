@@ -14,8 +14,14 @@
     {
         "device_id": "f467186806e88144",
         "key": "as1234",
-        "expirydate": "20-06-2026",
+        "expirydate": "31-12-2026",
         "Allowoffline": false
-    }
+    },
+    {
+        "device_id": "52f8affe93f7c141",
+        "key": "Farhan",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
+    },
     
 ]
